@@ -1,4 +1,4 @@
-# Notebooks, data, and final presentation materials for second capstone project of Springboard's Data Science Career Track.
+# Notebooks, data, and final presentation materials for second capstone project of Springboard's Data Science Career Track program.
 
 ## Leveraging Hospital Data to Predict Diabetic Patient Readmission with XGBoost
 
